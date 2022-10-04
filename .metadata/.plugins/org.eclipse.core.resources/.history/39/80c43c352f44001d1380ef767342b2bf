@@ -1,0 +1,12 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Employee ali = new Employee("Ali Veli", 2000, 45, 1985);
+		ali.toString();
+		
+		Employee veli = new Employee("Veli Ali", 2500, 34, 1999)
+
+	}
+
+}
